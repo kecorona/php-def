@@ -1,6 +1,8 @@
 {
     "require": {
         "monolog/monolog": "1.0.*",
-        "firebase/php-jwt": "^2.1"
+        "firebase/php-jwt": "^2.1",
+        "zendframework/zend-config": "~2.3",
+        "zendframework/zend-http": "~2.3"
     }
 }
